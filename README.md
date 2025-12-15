@@ -2,7 +2,7 @@
 *Analisis Tingkat Risiko Kesehatan Maternal Menggunakan Pendekatan Machine Learning dan Deep Learning*
 
 ## 👤 Informasi
-- **Nama:** [...]  
+- **Nama:** [Arya Yudha Prasetya]  
 - **Repo:** [...]  
 - **Video:** [...]  
 
