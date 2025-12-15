@@ -3,27 +3,27 @@
 
 ## 👤 Informasi
 - **Nama:** Arya Yudha Prasetya
-- **Repo:** https://github.com/AryaYudhaP/UAS_DataScience
-- **Video:** [...]
+- **Repo:** [https://github.com/AryaYudhaP/UAS_DataScience ]
+- **Video:** [Link Video Kamu Disini]
 
 ---
 
 # 1. 🎯 Ringkasan Proyek
-- Menyelesaikan permasalahan deteksi dini risiko kehamilan berdasarkan tanda vital.
-- Melakukan data preparation (cleaning, scaling, handling imbalance).
+- Menyelesaikan permasalahan deteksi dini risiko kehamilan.
+- Melakukan data preparation (cleaning, scaling).
 - Membangun 3 model: **Baseline** (Logistic Regression), **Advanced** (Random Forest), **Deep Learning** (MLP).
-- Melakukan evaluasi dan menentukan model terbaik berdasarkan Akurasi dan F1-Score.
+- Melakukan evaluasi dan menentukan model terbaik.
 
 ---
 
 # 2. 📄 Problem & Goals
 **Problem Statements:**
-- Tingginya risiko kematian ibu hamil akibat keterlambatan deteksi dini komplikasi kesehatan.
-- Kesulitan tenaga medis dalam menganalisis pola hubungan kompleks antara berbagai tanda vital secara manual.
+- Tingginya risiko komplikasi kehamilan yang terlambat terdeteksi.
+- Kesulitan menganalisis pola non-linear pada tanda vital secara manual.
 
 **Goals:**
-- Membangun model prediktif otomatis yang dapat mengklasifikasikan risiko maternal (Low, Mid, High) dengan akurasi yang dapat diandalkan.
-- Mengidentifikasi fitur kesehatan yang paling dominan mempengaruhi tingkat risiko kehamilan.
+- Membangun model klasifikasi risiko (Low, Mid, High) dengan akurasi tinggi.
+- Mengidentifikasi fitur kesehatan dominan (Gula Darah & Tensi).
 
 ---
 ## 📁 Struktur Folder
