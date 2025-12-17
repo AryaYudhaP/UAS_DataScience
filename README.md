@@ -3,8 +3,8 @@
 
 ## 👤 Informasi
 - **Nama:** Arya Yudha Prasetya
-- **Repo:** [https://github.com/AryaYudhaP/UAS_DataScience ]
-- **Video:** [Link Video Kamu Disini]
+- **Repo:** https://github.com/AryaYudhaP/UAS_DataScience 
+- **Video:** https://youtu.be/BopHMoFHPQ4
 
 ---
 
